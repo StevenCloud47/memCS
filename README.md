@@ -4,7 +4,7 @@ This is the source code and data for our paper, *Energy-Efficient Compressive Se
 ### 1.code
 
 #### 1.1 AMP algorithm
-- The source code of the approximate message passing (AMP) algorithm comes from the formulas in the paper *Donoho DL, Maleki A, Montanari A. Message passing algorithms for compressed sensing: I. Motivation and construction*. 
+- The source code of the approximate message passing (AMP) algorithm comes from the formulas in [this paper](https://arxiv.org/pdf/0907.3574).
 
 #### 1.2 MMM & SE strategies
 - These two strategies are used to optimize the measurement matrix $\Phi$ and the sparse transform matrix $\Psi$ in the AMP algorithm, respectively.
