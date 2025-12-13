@@ -1,5 +1,5 @@
 # memCS
-This is the source code and data for our paper, *Energy-Efficient Compressive Sensing Accelerator Based on Memristors with Hardware-Software Co-Optimization for Edge Computing (Accepted by National Science Review)*.
+This is the source code and data for our paper, *A memristor-based energy-efficient compressed sensing accelerator with hardware-software co-optimization for edge computing (Accepted by National Science Review)*.
 
 ### 1.code
 
