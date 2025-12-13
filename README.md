@@ -1,5 +1,5 @@
 # memCS
-This is the source code and data for our paper, *Yunrui Jiao, Han Zhao, Jianshi Tang, Yanze Zhou, Ruofei Hu, Haochen Jiang, Xingchu Li, Jingyuan Huang, Biao Sun, Wen Sun, Bin Gao, He Qian, Huaqiang Wu, A memristor-based energy-efficient compressed sensing accelerator with hardware-software co-optimization for edge computing, National Science Review, 2025; nwaf499*.
+This is the source code and data for our paper: *Yunrui Jiao, Han Zhao, Jianshi Tang, et al., A memristor-based energy-efficient compressed sensing accelerator with hardware-software co-optimization for edge computing, National Science Review, 2025; nwaf499*.
 
 ### 1.code
 
