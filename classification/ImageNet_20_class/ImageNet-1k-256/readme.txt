@@ -1,1 +1,0 @@
-Files in the format 'test/val-......-.parquet' are stored here, and parquet_to_image.ipynb is used to extract image data from them.
